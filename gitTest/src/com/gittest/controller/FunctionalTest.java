@@ -5,4 +5,7 @@ public class FunctionalTest {
 		
 		String name ="test";
 	}
+	public String getGoodee() {
+		return "goodee";
+	}
 }
